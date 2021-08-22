@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carrier_config_list>
+    <carrier_config>
+        <boolean name="prefer_2g_bool" value="true" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="11">
+        <int name="cdma_sms_7bit_encoding_type_int" value="2" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="03">
+        <int name="cdma_sms_7bit_encoding_type_int" value="2" />
+    </carrier_config>
+    <carrier_config mcc="455" mnc="02">
+        <int name="cdma_sms_7bit_encoding_type_int" value="2" />
+    </carrier_config>
+    <carrier_config mcc="455" mnc="07">
+        <int name="cdma_sms_7bit_encoding_type_int" value="2" />
+    </carrier_config>
+</carrier_config_list>

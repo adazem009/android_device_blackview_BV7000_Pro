@@ -1,0 +1,3 @@
+add_lunch_combo lineage_BV7000_Pro-eng
+add_lunch_combo lineage_BV7000_Pro-userdebug
+add_lunch_combo lineage_BV7000_Pro-user

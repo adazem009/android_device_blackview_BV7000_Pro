@@ -25,6 +25,7 @@
 
 ## Current bugs
 
+- SELinux permissive.
 - Can't properly connect to network using SIM.
 - SIM slot 2 doesn't work.
 - No NFC.
